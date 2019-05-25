@@ -1,6 +1,6 @@
 BaseUrl= "https://mbahack2.syui.cf/hugo-theme-air/"
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "IndabaX Tanzania"
 paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2016"
@@ -10,7 +10,7 @@ canonifyurls = true
   name = "syui"
 
 [params]
-  description = "this is my description"
+  description = "Deep Learning IndabaX Tanzania 2019"
   cover = "images/user.jpg"
   author = "syui"
   authorlocation = ""
